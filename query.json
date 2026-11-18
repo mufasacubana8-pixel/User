@@ -1,0 +1,3 @@
+SELECT id, Y6805010 name, justo email ,  mufasacubana8@gmail.com 
+FROM users 
+WHERE active 
